@@ -1,0 +1,9 @@
+ init;
+ init;
+while( condition){
+while( condition){
+statement(s);
+ increment ;
+}
+statement(s);
+ increment ;}
