@@ -1,0 +1,15 @@
+1.Write a Lex program to recognize identifier, keyword, number and unsigned number.
+
+2.Write a Lex program to count the number of characters and number of lines in the input.
+
+3.Write a Lex program to count the number of vowels and consonants in a given string.
+
+4.Write the Lex Program to find the token and its count from input file for the following.
+  a.Identifier
+  b.Number
+  c.Unsigned number
+  d.Keyword(if, then, else, for, while, int, float, real )
+  e.Whitespace (delimiter = space / tab / newline )
+  f.Assignment symbol (:= )
+  g.Operator Symbol (+ , -, *, / )
+  h.Special Character(! , @ , #, $ , %, ^, &, * ,“,”,() )
