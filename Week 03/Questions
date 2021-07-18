@@ -1,0 +1,11 @@
+1.Write regular definition to display the line of string for the following using LEX.
+  a.Match any string starting with d, and ending with t
+  b.Matches the string def
+  c.Match one or more occurrences ab concatenated
+  d.Match any string of one or more characters that do not include upper case A-Z
+  
+2.Write regular definition to display the line of string for the following using LEX.
+  a.Comments consisting of string surrounded by /* and */ without intervening */, unless it is inside double-quotes(“)
+  b.All strings of lowercase letters that contain the five vowels in order
+  c.All strings of digits with at most one repeated digit
+  d.All strings of a’s and b’s that do not contain the substring abb
