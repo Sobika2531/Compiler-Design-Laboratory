@@ -1,0 +1,19 @@
+1.Append  the  next  matched  string  to  the  current  value  of  the  yytext  rather  than replacing the contents of the yytext. Handle it for Uppercase and Lowercase. Find the start and end of a word for Uppercase and lowercase.
+  Input: The GIVen SENtence is SAME
+  
+2.Retain four initial characters in the yytext and returns the remaining characters to the input stream.
+  Input: concatenation of two strings
+  
+3.Convert for statement to do -while statement 
+  Input:
+    for (i =0; i<= 10; i++)
+    {
+    }
+    
+4.Convert while to for (single) using LEX.
+  Input:
+    int j =1;
+    while (j<=10)
+    {
+      j--;
+    }
