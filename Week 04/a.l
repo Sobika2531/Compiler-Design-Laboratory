@@ -1,5 +1,3 @@
-//a.Matches one or more alphanumeric characters
-
 %{ 
         #include <stdio.h> 
 %} 
