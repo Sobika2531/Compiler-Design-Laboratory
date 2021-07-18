@@ -1,0 +1,6 @@
+Write a lex program to find the Regex for the following.
+
+a.Matches one or more alphanumeric characters
+b.Matches the string starts with “b” followed by one or twooccurrence of “an” and ends with zero or one occurrenceof “a”.
+c.Matches any character in the alphabet which is not “ a, dor f”.
+d.Matches all characters except “ a, b, or c”, including all special or control characters
