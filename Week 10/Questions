@@ -1,0 +1,17 @@
+1.Write a yacc program to implement relational operators
+
+2.Write a yacc program to implement Boolean operators
+
+3.Write a Yacc program to validate the nestedfor construct.
+  Input:
+    int main()
+    {
+      for (int i=0; i<2; i++)
+      {
+        for (int j=0; j<4; j++)
+        {
+          printf("%d, %d\n",i ,j);
+        }
+      }
+      return 0;
+    }
