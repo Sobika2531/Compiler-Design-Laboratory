@@ -1,0 +1,33 @@
+uppercase letter: T
+start of 2nd yymore
+end of 2nd yymore
+
+lowercase letter: The
+start of 1st yymore
+end of 1st yymore
+
+The uppercase letter: GIV
+start of 2nd yymore
+end of 2nd yymore
+
+lowercase letter: GIVen
+start of 1st yymore
+end of 1st yymore
+
+GIVen uppercase letter: SEN
+start of 2nd yymore
+end of 2nd yymore
+
+lowercase letter: SENtence
+start of 1st yymore
+end of 1st yymore
+
+SENtence lowercase letter: is
+start of 1st yymore
+end of 1st yymore
+
+is uppercase letter: SAME
+start of 2nd yymore
+end of 2nd yymore
+
+SAME
