@@ -1,0 +1,18 @@
+1.Convert nested for to nested while syntax using LEX.
+  for ( init; condition; increment ) {
+    for ( init; condition; increment ) {
+      statement(s);
+      }
+    statement(s);
+    }
+    
+2.Convert nested if-else to nested do -while syntax using LEX.
+  if (condition 1)
+    { statement 1; }
+    else
+    if (condition 2)
+      { statement 2; }
+    else
+      { statement 3; }
+      
+3.Convert an infix expression to prefix and postfix expression.
