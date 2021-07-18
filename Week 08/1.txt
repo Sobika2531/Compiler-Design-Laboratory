@@ -1,0 +1,6 @@
+if x==y
+print x;
+else if x<y
+print x;
+else
+print y;
