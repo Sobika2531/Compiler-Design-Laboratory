@@ -1,0 +1,14 @@
+lower: concatenation
+the word after yyless: conc
+lower: atenation
+the word after yyless: aten
+lower: ation
+the word after yyless: atio
+lower: n
+the word after yyless: n of
+lower: two
+the word after yyless: two
+lower: strings
+the word after yyless: stri
+lower: ngs
+the word after yyless: ngs
